@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "inquirer": "^9.2.20"
+  },
+  "name": "hussain-00-rock-paper-scissor-game",
+  "version": "1.0.0",
+  "description": "Its a rock paper scissor game with the help of Typescript,Javascript and Inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Hussain ullah",
+  "license": "ISC",
+  "keywords": []
+}
